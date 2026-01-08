@@ -1,0 +1,76 @@
+{
+  "site_heading": {
+    "alt": "Visualisation of Earth Observation Data and Archival System",
+    "title": "Official website of Visualisation of Earth Observation  Data and Archival System, Space Applications Center, Indian Space Research Organization, Government of India"
+  },
+  "announcements": {
+    "heading": "Announcements",
+    "items": [
+      {
+        "text": "(Help Manual PDF Size:1.4MB Language:English)",
+        "href": "https://vedas.sac.gov.in/static/pdf/Sangrahi_Helpmanual.pdf"
+      },
+      {
+        "text": "Dashboard : Desertification & Land Degradation (New)",
+        "href": "https://vedas.sac.gov.in/desertification/index.html"
+      },
+      {
+        "text": "3D City Model and Rooftop Solar Potential",
+        "href": "https://vedas.sac.gov.in/vstatic/3D_CITY/index.html"
+      },
+      {
+        "text": "Global Solar Calculator (Beta-version)",
+        "href": "https://vedas.sac.gov.in/global-solar/"
+      },
+      {
+        "text": "Sangrahi - Field Data Collection (Viewer) - Beta (New) APK Size: 23.2MB"
+      },
+      {
+        "text": "(New) APK Size: 23.2MB"
+      },
+      {
+        "text": "(Help Manual PDF Size:1.4MB Language:English)"
+      },
+      {
+        "text": "(New)"
+      },
+      {
+        "text": "Dashboard : Desertification & Land Degradation (New)"
+      },
+      {
+        "text": "3D City Model and Rooftop Solar Potential"
+      },
+      {
+        "text": "Global Solar Calculator (Beta-version)"
+      }
+    ]
+  },
+  "awards": {
+    "heading": "VEDAS received the “Best Geospatial Platform (National Jury Award)” by FOSSEE GIS, IIT Mumbai",
+    "description": "Space Applications Centre, ISRO honoured with four awards at National Geospatial Awards 2025 (Edition II), organized by IIT\n                            Bombay’s FOSSEE GIS team under the aegis of the National Mission on Education through ICT (NMEICT),\n                            Ministry of Education, Government of India. The awards were conferred during the Open Source\n                            GIS Day 2025 celebrations held at IIT Bombay on 17th July 2025, in the august presence of Shri\n                            A. S. Kiran Kumar, Former Chairman, ISRO. 1) National Geospatial\n                            Enabler Award: Space Applications Centre (SAC), ISRO. 2) Best Geospatial Platform: Visualisation\n                            of Earth Observation Data and Archival System (VEDAS) portal, SAC-ISRO. 3) National Geospatial\n                            Professional (Leadership) Fellow: Mr. Shashikant A. Sharma, Group Director, GAWG-EPSA. 4)\n                            National Award for Women of Excellence in Geospatial Science and Technology: Ms. Shweta Mishra,\n                            Scientist/Engineer-SF, VWAD-GAWG-EPSA. Click here to Know more (PDF Size: 1.7MB Language: English)"
+  },
+  "builtup_area": {
+    "heading": "AI-Extracted Built-up Area for 500 AMRUT cities",
+    "description": "Built-up area serves as an important indicator of socio-economic growth of a country. Several studies require built-up area\n                            for quantifying anthropogenic impacts on environment and climate change. The built-up surfaces\n                            are very dynamic and therefore require regular monitoring. The 5.8 m spatial resolution of Resourcesat-2/2A\n                            LISS-4 sensor is not only suitable for mapping core urban areas, but is also effective in capturing\n                            small scattered growth in urban periphery. The built-up area of 500 cities of India (identified\n                            under AMRUT programme) was extracted from Resourcesat-2 LISS-IV data for 2023-2024 timeframe\n                            using Artificial Intelligence (AI). The AI-model uses Convolutional Neural Network (CNN) architecture\n                            based on UNet and Atrous Spatial Pyramid Pooling (ASPP) concept. A web-based application on VEDAS\n                            portal was created to enable visualisation and analysis of built-up area. It enables state and\n                            national level comparison of built-up area of cities. Click here to go to Urban Sprawl Information System Click here to Know more (PDF Size:2.5MB Language: English)"
+  },
+  "webinar": {
+    "heading": "Webinar on VEDAS API Centre",
+    "description": "A collaborative webinar on the VEDAS API Centre was conducted by the Space Applications Centre (SAC) and Indian National\n                            Space Promotion and Authorization Center (InSpace) to engage with private industry stakeholders.\n                            The session aimed to introduce the capabilities of VEDAS (Visualization of Earth Observation\n                            Data and Archival System) and its API services, fostering industry participation in space-based\n                            applications. The event featured insightful keynote addresses from distinguished leaders in the\n                            space sector: Shri Nilesh M. Desai, Director, SAC, highlighted the significance of Earth observation\n                            data in various sectors and how VEDAS can empower industry professionals with advanced analytical\n                            tools. Dr. Vinod Kumar, Director, PD, InSpace, emphasized the role of private industry in leveraging\n                            VEDAS API for innovation and commercial applications. Dr. Rashmi Sharma, Deputy Director, EPSA/SAC,\n                            provided an overview of SAC’s vision for enabling geospatial intelligence and industry collaboration.\n                            The webinar included a series of technical presentations by experts from SAC, elaborating on\n                            the functionalities and applications of VEDAS and the VEDAS API Centre. Shri Shashikant Sharma,\n                            Group Director, GAWG/EPSA provided a demo of VEDAS applications, showcasing its practical usage\n                            across different domains. Shri Pankaj Bodani, Deputy Head, VWAD/GAWG, discussed the VEDAS API\n                            Centre, its applications, available APIs and the future scope of the platform. Shri Arpit Agarwal,\n                            Scientist, VWAD, gave a step-by-step demo for registering on the platform and creating a first\n                            key to use the API services. The webinar concluded with an engaging Q&A session, where participants\n                            had the opportunity to seek clarifications and explore potential collaborations. Experts addressed\n                            queries regarding API access, data formats, application domains, and industry partnerships. With more\n                            than 150 participants from various private industries, the webinar marked a significant step\n                            toward strengthening industry-academia collaboration in the geospatial and space-tech sectors.\n                            The event provided a platform for stakeholders to understand the capabilities of VEDAS and explore\n                            its potential in domains such as agriculture, urban planning, disaster management, and environmental\n                            monitoring. The successful execution of this webinar underscores SAC and InSpace’s commitment\n                            to fostering innovation, promoting industry participation, and advancing India’s space ecosystem\n                            through cutting-edge geospatial solutions."
+  },
+  "interferometric": {
+    "heading": "INterferometric SAR Data Analysis and Usage Software (INDUS)",
+    "description": "INterferometric SAR Data Analysis and Usage Software (INDUS) is a SAC developed software for interferometric analysis of\n                            SAR datasets. INDUS is a self-sufficient, portable and containerized software developed in C++\n                            and Python. All the required libraries are available in the container and can be run by any software\n                            capable to load the container. The software is capable of generating the deformation map as well\n                            as the relative elevation map. It also generates the coherence map that can be used for various\n                            change detection analysis. Currently, this software caters to interferometric analysis of ISRO\n                            EOS-04 SAR mission. Support to upcoming missions like EOS-09 and NISAR will be extended in the\n                            software for interferometric analysis."
+  },
+  "solar_power_plants": {
+    "heading": "AI based Solar power plants extraction for Indian states from Resourcesat LISS IV data",
+    "description": "Solar power plants are extracted for ten Indian states (Haryana, Punjab, Gujarat, Madhya Pradesh, Rajasthan, Maharashtra,\n                            Karnataka, Telangana, Andhra Pradesh and Tamil Nadu). Combined installed capacity of solar power\n                            for these states is 81.87GW which is about is 90.2% of India's total solar capacity (90.76GW)\n                            . Automatic extraction of these Solar power plants are done using artificial intelligence based\n                            deep learning neural networks for the year (Jan-April) 2023. Indian Remote sensing (IRS) Resourcesat-2A\n                            LISS IV satellite data is used with 5m ground spatial resolution and three spectral bands green,\n                            red and NIR. The study also includes temporal change analysis of Solar Plants from 2018 till\n                            2023. It is found that in the past five years solar power plants inventories have increased nearly\n                            6.3 times in Rajasthan, 2.5 times in Gujarat, 1.5 times in Madhya Pradesh, 1.57 times in Maharashtra,\n                            1.25 times in Karnataka, 0.3 times in Telangana, 1.87 times in Andhra Pradesh and 2.31 times\n                            in Tamil Nadu. This work is carried out under TDP- 202302021, titled “Deep learning Based Solar\n                            Plants Identification using high-resolution remote sensing data”."
+  },
+  "contact": {
+    "contact": [
+      "Space Applications Centre (ISRO)",
+      "Opposite DPS School, Bopal Ahmedabad 380 058, INDIA",
+      "Email: vedas[at]sac[dot]isro[dot]gov[dot]in"
+    ],
+    "phone": "Contact Us Space Applications Centre (ISRO) Opposite DPS School, Bopal Ahmedabad 380 058, INDIA Email: vedas[at]sac[dot]isro[dot]gov[dot]in Phone: +91-79-2691-6205 / 6222"
+  }
+}
